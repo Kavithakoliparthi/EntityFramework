@@ -1,0 +1,10 @@
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe.config
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.pdb
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.dll
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.xml
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csprojResolveAssemblyReference.cache
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.exe
+F:\kavitha\EFCodeFirstDemo\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.pdb
